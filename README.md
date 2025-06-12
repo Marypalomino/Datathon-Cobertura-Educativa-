@@ -58,7 +58,7 @@ En este proyecto abordamos la cobertura educativa en Colombia por departamentos 
 - Gráfico de anillos cobertura por departamentos
 - Gráfico de barras apiladas matrícula contratada por zonas
 - Gráficos de barras agrupadas por departamento y zonas
-- Mapa geográfico departamento y matrícula contratada
+- Mapa geográfico por departamento y matrícula contratada
 
 
 
