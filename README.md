@@ -4,11 +4,11 @@ Microsoft Edge settings and storage represent user-selected preferences and info
 
 ## 🎯 Descripción del reto
 
-En este proyecto abordamos la cobertura educativa en Colombia por departamentos y zona (urbana, rural).
+En este proyecto abordamos la cobertura educativa en Colombia por departamentos y zona (urbana, rural) y la matrícula contratada.
 
 ## Pregunta de investigación
 
-> ¿Existen brechas en la cobertura geográfica de los establecimientos educativos en Colombia por municipio, departamento y zona, y cómo se distribuyen estos establecimientos según si tienen matrícula contratada (paga) o no?
+> ¿Existen brechas en la cobertura geográfica de los establecimientos educativos en Colombia por departamento y zona, y cómo se distribuyen estos establecimientos según si tienen matrícula contratada (paga) o no?
 
 ## 💡 Hipótesis
 
@@ -16,20 +16,18 @@ En este proyecto abordamos la cobertura educativa en Colombia por departamentos 
 
 ## 🧭 Objetivo general
 
-> Analizar la cobertura geográfica de los establecimientos educativos en Colombia, por municipio, departamento y zona, y evaluar la distribución de establecimientos con matrícula contratada (paga) en relación con su ubicación.
+> Analizar la cobertura geográfica de los establecimientos educativos en Colombia, por departamento y zona, y evaluar la distribución de establecimientos con matrícula contratada (paga) en relación con su ubicación.
 
 ## 🎯 Objetivos específicos
 
-1. Identificar la distribución de los establecimientos educativos por departamento.
-2. Analizar la proporción de establecimientos educativos con matrícula contratada (paga) frente a los que no la tienen, por zona y departamento.
-3. Comparar la cobertura educativa por departamento entre las cuatro zonas (urbanas, rurales, urbanas-rurales, rurales-urbanas).
-5. Visualizar geográficamente la presencia y ausencia de matrícula contratada (paga) en los establecimientos educativos por departamento y municipio.
-6. Detectar posibles brechas territoriales en el acceso a educación gratuita mediante análisis espacial de los establecimientos sin matrícula contratada.
-
+1) Identificar la distribución de los establecimientos educativos por departamento.
+2) Comparar la cobertura educativa por departamento entre las zonas (urbana y rural).
+3) Analizar la proporción de establecimientos educativos que cuentan con matrícula contratada frente a los que no, según departamento y zona. 
+4) Visualizar geográficamente la presencia y ausencia de matrícula contratada (paga) en los establecimientos educativos por departamento.
 
 ## 🛠️ Herramientas utilizadas
 
-- **Python**: pandas, matplotlib, seaborn (limpieza, EDA, análisis)
+- **Python**: pandas, matplotlib, seaborn (limpieza, EDA, análisis, visualizaciones, Machine Learning)
 - **Google Colab**: Entorno de desarrollo
 - **Power BI**: dashboard de visualización
 - **GitHub**: control de versiones y trabajo colaborativo
@@ -57,12 +55,12 @@ En este proyecto abordamos la cobertura educativa en Colombia por departamentos 
 
 ## 📊 Visualizaciones principales
 
-- Mapa geográfico de inclusión por departamentos
-- Gráficos de barras de tipos de discapacidad más atendidos
-- Comparación urbano/rural y sector oficial/privado
-- Histograma de cantidad de discapacidades atendidas por institución
+- Gráfico de anillos cobertura por departamentos
+- Gráfico de barras apiladas matrícula contratada por zonas
+- Gráficos de barras agrupadas por departamento y zonas
+- Mapa geográfico departamento y matrícula contratada
 
-## 📂 Estructura del repositorio
+
 
 
 
