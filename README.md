@@ -38,9 +38,9 @@ En este proyecto abordamos la cobertura educativa en Colombia por departamentos 
 
 - Nombre: María José Palomino Vargas: Coordinación general, Trello, control de entregables
 - Nombre: Rosalyn Reyes: Creación de logo e identidad de marca del equipo 
-- Nombre: Todo el grupo: Limpieza de datos y codificación inicial
-- Nombre: Todo el grupo: Análisis exploratorio (EDA) y visualizaciones en Python
-- Nombre: Todo el grupo: Diseño de dashboard en Power BI
+- Nombre: Zuly Romero: Limpieza de datos y codificación inicial
+- Nombre: Dayana Sepulveda: Análisis exploratorio (EDA) y visualizaciones en Python
+- Nombre: Yureinis Manotas: Diseño de dashboard en Power BI
 - Nombre: Ivy Bonilla: Storytelling y presentación TED
 - Nombre: María José Palomino Vargas Documentación, GitHub, README, commits
 
@@ -66,7 +66,6 @@ En este proyecto abordamos la cobertura educativa en Colombia por departamentos 
     -Archivo README con descripción del reto, hipótesis, enfoque, roles y pasos realizados
     -Evidencias de trabajo colaborativo: issues, branches, commits, pull requests, acceso tablero Kanban (Trello, Jira, Excel)
     -Dump o exportación de base de datos usada (.sql o .json/.csv según corresponda)
-  
 2. Dashboard con visualizaciones en Power BI o Tableau
 4. Presentación final tipo TED Talk corporativo archivo de presentación .pptx o PDF
 5. Identidad visual del equipo o Logo, fondo para videollamada, tono de comunicación, presentación.
