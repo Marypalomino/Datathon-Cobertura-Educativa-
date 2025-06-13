@@ -12,7 +12,7 @@ En este proyecto abordamos la cobertura educativa en Colombia por departamentos 
 
 ## 💡 Hipótesis
 
-> La cobertura geográfica de los establecimientos educativos en Colombia presenta desigualdades significativas entre zonas urbanas y rurales, y una mayor concentración de matrícula contratada (paga) en zonas urbanas y departamentos con mayor desarrollo económico.
+> La cobertura geográfica de los establecimientos educativos en Colombia presenta desigualdades significativas entre zonas urbanas y rurales, y una mayor concentración de matrícula contratada (paga) en zonas urbanas y departamentos con mayor desarrollo económico".
 
 ## 🧭 Objetivo general
 
@@ -59,6 +59,18 @@ En este proyecto abordamos la cobertura educativa en Colombia por departamentos 
 - Gráfico de barras apiladas matrícula contratada por zonas
 - Gráficos de barras agrupadas por departamento y zonas
 - Mapa geográfico por departamento y matrícula contratada
+
+  ## 📄✅ Entregables del proyecto
+1. Repositorio en GitHub con:
+    -Notebooks scripts de trabajo (limpieza, EDA, modelado, visualizaciones).
+    -Archivo README con descripción del reto, hipótesis, enfoque, roles y pasos realizados
+    -Evidencias de trabajo colaborativo: issues, branches, commits, pull requests, acceso tablero Kanban (Trello, Jira, Excel)
+    -Dump o exportación de base de datos usada (.sql o .json/.csv según corresponda)
+  
+2. Dashboard con visualizaciones en Power BI o Tableau
+4. Presentación final tipo TED Talk corporativo archivo de presentación .pptx o PDF
+5. Identidad visual del equipo o Logo, fondo para videollamada, tono de comunicación, presentación.
+
 
 
 
