@@ -39,7 +39,7 @@ En este proyecto abordamos la cobertura educativa en Colombia por departamentos 
 - Nombre: María José Palomino Vargas: Coordinación general, Trello, control de entregables
 - Nombre: Rosalyn Reyes: Creación de logo e identidad de marca del equipo 
 - Nombre: Zuly Romero: Limpieza de datos y codificación inicial
-- Nombre: Dayana Sepulveda: Análisis exploratorio (EDA) y visualizaciones en Python
+- Nombre: Dayana Sepulveda: Análisis exploratorio (EDA) y visualizaciones en Python, Machine Learning
 - Nombre: Yureinis Manotas: Diseño de dashboard en Power BI
 - Nombre: Ivy Bonilla: Storytelling y presentación TED
 - Nombre: María José Palomino Vargas Documentación, GitHub, README, commits
